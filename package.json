@@ -1,0 +1,28 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "Backend app demonstrating object-relational mapping using Sequelize, dotenv and bcrypt JavaScript libraries",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evan-Wer/just-tech-news.git"
+  },
+  "keywords": [
+    "bcrypt",
+    "sequelize"
+  ],
+  "author": "Evan-Wer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evan-Wer/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/Evan-Wer/just-tech-news#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
